@@ -1,0 +1,3 @@
+[submodule "themes/casper-two"]
+    path = "themes/npq-hugo"
+    url = "https://github.com/saadnpq/npq-hugo.git"
