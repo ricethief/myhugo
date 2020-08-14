@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = ""
 languageCode = "en-us"
 title = "title"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
